@@ -25,10 +25,10 @@ python app.py
 | GET    | `/health`    | Check the service health   |
 | GET    | `/count` | Retrieve the songs count |
 | GET   | `/songs`    | Retrieve all songs from DB  |
-| GET | `/song/<int:id>` | Search for specific song with ID |
+| GET | `/song/<int:id>` | Search for specific song By ID |
 | POST | `/song` | Create new songs |
-| PUT | `/song/<int:id>` | Update song with ID |
-| DELETE | `/song/<int:id>` | Delete song with ID | 
+| PUT | `/song/<int:id>` | Update song By ID |
+| DELETE | `/song/<int:id>` | Delete song By ID | 
 
 
 ## Technologies Used

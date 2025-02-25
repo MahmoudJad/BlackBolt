@@ -27,7 +27,7 @@ python app.py
 | GET   | `/songs`    | Retrieve all songs from DB  |
 | GET | `/song/<int:id>` | Search for specific song with ID |
 | POST | `/song` | Create new songs |
-| PUT | `/song/<int:id> | Update song with ID |
+| PUT | `/song/<int:id>` | Update song with ID |
 | DELETE | `/song/<int:id>` | Delete song with ID | 
 
 

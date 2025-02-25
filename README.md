@@ -16,6 +16,7 @@ git clone https://github.com/yourusername/BlackBolt.git
 cd BlackBolt
 pip install -r requirements.txt
 python app.py
+```
 
 ## API Endpoints 
 

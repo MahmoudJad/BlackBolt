@@ -12,7 +12,7 @@ BlackBolt is a Flask-based microservice responsible for managing the music secti
 
 ## Installation  
 ```bash
-git clone https://github.com/yourusername/BlackBolt.git
+git clone https://github.com/MahmoudJad/BlackBolt.git
 cd BlackBolt
 pip install -r requirements.txt
 python app.py
